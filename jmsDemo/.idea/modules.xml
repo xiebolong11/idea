@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/jmsDemo.iml" filepath="$PROJECT_DIR$/jmsDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/springjms-producer/springjms-producer.iml" filepath="$PROJECT_DIR$/springjms-producer/springjms-producer.iml" />
       <module fileurl="file://$PROJECT_DIR$/springjms_consumer/springjms_consumer.iml" filepath="$PROJECT_DIR$/springjms_consumer/springjms_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
   </component>
 </project>

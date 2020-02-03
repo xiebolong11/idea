@@ -11,6 +11,7 @@
     <modules>
         <module>springjms-producer</module>
         <module>springjms_consumer</module>
+        <module>test</module>
     </modules>
     <dependencies>
         <dependency>
